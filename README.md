@@ -1,12 +1,14 @@
 ## AI & Digital Innovation Portfolio
 
 This GitHub profile hosts selected projects focused on:
-- Enterprise AI & GenAI (RAG, AI assistants)
-- CRM & Customer Service platforms
-- Data & Analytics
-- AI product and platform design
+- Fun and learning projects
+- Enterprise AI & GenAI (RAG, AI assistants) (coming soon)
+- CRM & Customer Service platforms (coming soon)
+- Data & Analytics (coming soon)
+- AI product and platform design (coming soon)
 
 Projects are progressively being published and documented.
+Cheers
+G.
 
-👉 In the meantime, you can explore my professional background via:
-- AI Persona – Interactive CV Chat (link)
+
